@@ -1,5 +1,4 @@
 # react-webpack
-React Webpack Boilerplate
 
 Create React applications with this simplified boilerplate.
 
